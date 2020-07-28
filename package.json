@@ -1,0 +1,19 @@
+{
+  "name": "lib_linguagens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francisco1030/lib_linguagens.git"
+  },
+  "author": "“Francisco <“franciscoviana862@gmail.com”>",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/Francisco1030/lib_linguagens/issues"
+  },
+  "homepage": "https://github.com/Francisco1030/lib_linguagens#readme"
+}
