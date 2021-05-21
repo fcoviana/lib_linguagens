@@ -1,5 +1,5 @@
 {
-  "name": "lib_linguagens",
+  "name": "@francisco1030/lib_linguagens",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Francisco1030/lib_linguagens/issues"
   },
-  "homepage": "https://github.com/Francisco1030/lib_linguagens#readme"
+  "homepage": "https://github.com/Francisco1030/lib_linguagens#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
