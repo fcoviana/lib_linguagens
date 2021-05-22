@@ -1,4 +1,4 @@
-<h2 align="center"> Lib linguagens - Estudo npm  </h2>
+# Lib linguagens - Estudo npm
 
 
 #### Dependências
@@ -28,6 +28,3 @@
 ```shell
     npm i lib_linguagens
 ```
-------------
-
-<h4 align="center"> <em></></em> by <a href="https://github.com/Francisco1030" target="_blank"> Francisco Viana</a> </h4>
